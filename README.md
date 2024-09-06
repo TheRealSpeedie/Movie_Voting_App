@@ -8,4 +8,5 @@ In Progress:
 Themes
 Used Movie API: https://developer.themoviedb.org/reference/discover-movie
 
-![Bild1](https://github.com/user-attachments/assets/029978a2-2575-4710-b00f-03efecf38f78)
+
+
