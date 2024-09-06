@@ -1,0 +1,17 @@
+----User----
+admin
+admin@example.com
+pw: tplus
+
+----Beispiel Json----
+{
+    "Number": 101,
+    "AmountMembers": 20,
+    "StopCount": 5
+}
+
+{
+    "Raum": 1,
+    "votes": 100,
+    "filmName": "Titanic"
+}
