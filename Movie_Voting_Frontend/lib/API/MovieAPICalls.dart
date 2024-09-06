@@ -12,8 +12,8 @@ import 'RaumAPICalls.dart';
 
 class MovieCalls {
   String RaumID;
-  String APIKey = "4a9712eb2256cbe5640c551e5c2c1f1a";
-  String token = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI0YTk3MTJlYjIyNTZjYmU1NjQwYzU1MWU1YzJjMWYxYSIsInN1YiI6IjY1ZDQ1OGVmMDlkZGE0MDE4ODU3ZjU3MSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.QIvYLr_oyVbHYMHDmnyxa2nN5Q3xlmKY1U9MdvK_oA8";
+  String APIKey = "Key to API";
+  String token = "Token";
   List<dynamic> movielist = [];
 
   MovieCalls({required this.RaumID});
